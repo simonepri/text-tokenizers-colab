@@ -7,7 +7,7 @@
 
 ## Synopsis
 
-Tokenization is the task of splitting a text into meaningful segments, called tokens. 
+Tokenization is the task of splitting a text into meaningful segments, called tokens.
 This repository contains python notebooks to run some text tokenizers for quick experimentation purposes.
 Just click on one of the links in the list below and run the notebook.
 
@@ -18,6 +18,7 @@ If so, [support this work with a Star ⭐️][start].
 
 ## Notebooks
  - Hugging Face's Transformers Library Tokenizers - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)][colab:transformers]
+ - Explosion AI spaCy Library Tokenizers - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)][colab:spacy]
 
 
 ## Authors
@@ -42,3 +43,4 @@ This project is licensed under the MIT License - see the [license][license] file
 [github:simonepri]: https://github.com/simonepri
 
 [colab:transformers]: https://colab.research.google.com/github/simonepri/text-tokenizers-colab/blob/master/transformers-tokenizers.ipynb
+[colab:spacy]: https://colab.research.google.com/github/simonepri/text-tokenizers-colab/blob/master/spacy-tokenizers.ipynb
