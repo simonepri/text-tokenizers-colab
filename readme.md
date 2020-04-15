@@ -16,6 +16,7 @@ Or maybe you simply *like it*?
 If so, [support this work with a Star ⭐️][start].
 
 ## Notebooks
+ - Hugging Face's Transformers Library Tokenizers - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)][colab:transformers]
 
 
 ## Authors
@@ -38,3 +39,5 @@ This project is licensed under the MIT License - see the [license][license] file
 [contributors]: https://github.com/simonepri/text-tokenizers-colab/contributors
 
 [github:simonepri]: https://github.com/simonepri
+
+[colab:transformers]: https://colab.research.google.com/github/simonepri/text-tokenizers-colab/blob/master/transformers-tokenizers.ipynb
