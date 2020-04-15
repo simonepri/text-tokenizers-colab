@@ -7,6 +7,7 @@
 
 ## Synopsis
 
+Tokenization is the task of splitting a text into meaningful segments, called tokens. 
 This repository contains python notebooks to run some text tokenizers for quick experimentation purposes.
 Just click on one of the links in the list below and run the notebook.
 
